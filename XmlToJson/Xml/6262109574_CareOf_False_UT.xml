@@ -1,0 +1,621 @@
+<Root>
+  <AdditionalRecipients />
+  <Attachments />
+  <Client>
+    <Address>24 Carrol Close</Address>
+    <AddressLocalArea>
+    </AddressLocalArea>
+    <City>Kentish Town</City>
+    <Contact />
+    <Country>GBR</Country>
+    <Email />
+    <PC>NW5 2PY</PC>
+    <PhoneNumbers />
+    <Province>Camden</Province>
+    <Web />
+    <CIF>TST-00005594</CIF>
+    <Company>SUMMIT TEST CLIENT 1</Company>
+    <EconomicActivityCode />
+    <LegalProperties />
+    <Registry />
+    <m_IsPublicAdministration />
+    <m_TaxIdType>TaxId</m_TaxIdType>
+    <m_blnB2C />
+    <m_strCountryTaxId>GB</m_strCountryTaxId>
+    <AdditionalInfos />
+    <Client>SUMMIT TEST CLIENT 1</Client>
+    <ClientID>
+    </ClientID>
+    <CountryFiscalData />
+    <PublicAdministration />
+    <SupplierClientID>
+    </SupplierClientID>
+    <SupplierCustomerID />
+    <SysClientID>2763921</SysClientID>
+  </Client>
+  <Comments />
+  <ConstraintsInfo />
+  <ConversionTrace />
+  <CreditInfo />
+  <Customers />
+  <DisplayParams />
+  <DueDates />
+  <ExtSignatures />
+  <ExternalSignatures />
+  <FeesSummary />
+  <GeneralData>
+    <AdditionalInfos />
+    <AlternateReferences />
+    <AlternativeCurrency />
+    <Concept />
+    <ConstraintError>false</ConstraintError>
+    <Contract />
+    <Currency>EUR</Currency>
+    <DeliveryAddrID>0</DeliveryAddrID>
+    <DigitallyCertified>true</DigitallyCertified>
+    <DownloadPdfUrl />
+    <ExchangeCurrency />
+    <ExportedPDFFilename />
+    <ExtSignatures />
+    <Incoterms />
+    <Language />
+    <LegalProperties_POR />
+    <NCF />
+    <OnlyArchive>false</OnlyArchive>
+    <PDFFile />
+    <PublicAdministration />
+    <Ref>333-84572019</Ref>
+    <RentACar />
+    <Sector>84</Sector>
+    <SysApproved>0</SysApproved>
+    <SysCreationToolModule>general</SysCreationToolModule>
+    <SysCreationToolVersion>0</SysCreationToolVersion>
+    <SysFormat>-1</SysFormat>
+    <TaxIncluded>true</TaxIncluded>
+    <TaxSystemText />
+    <TransactionApprovalWorkFlowList />
+    <Type>FacturaComercial</Type>
+    <UsesStockConversion>false</UsesStockConversion>
+    <m_CareOf>False</m_CareOf>
+    <m_blnExtDigitallyCertified />
+    <m_blnPrintAsCopy />
+    <m_strBeginDate />
+    <m_strBeginTime />
+    <m_strBusinessFlow>ToKnownRelatedRecipient</m_strBusinessFlow>
+    <m_strCreationTool>Web_Billback</m_strCreationTool>
+    <m_strDate>2019-10-30</m_strDate>
+    <m_strEndDate />
+    <m_strEndTime />
+    <m_strExchangeDate />
+    <m_strExchangeRate />
+    <m_strExportWhenSent />
+    <m_strOriginalBusinessFlow />
+    <m_strOriginalCreationTool />
+    <m_strResent />
+    <m_strRoundMode>Arithmetic</m_strRoundMode>
+    <m_strRoutingPolicy>BavelRelatedRecipient</m_strRoutingPolicy>
+    <m_strSellingDate />
+    <m_strSendMode />
+    <m_strServiceType />
+    <m_strSysKlusterId />
+    <m_strSysManagerId />
+    <m_strSysOriginalCreationToolVersion />
+    <m_strTicketServiceType />
+    <m_strTotalType />
+  </GeneralData>
+  <GlobalDiscounts />
+  <GuestList />
+  <HistoryRoutes />
+  <PDFData />
+  <POACK />
+  <PaymentList />
+  <PaymentMethods />
+  <ProductList>
+    <Action />
+    <AdditionalInfos />
+    <BookingInfo />
+    <Comment />
+    <Contract />
+    <CustomerSKU>testbavel-bookingref307</CustomerSKU>
+    <Discounts />
+    <EAN />
+    <Fees />
+    <Group />
+    <GroupCode />
+    <Item>Single Room </Item>
+    <ItemRef />
+    <MU>
+    </MU>
+    <OriginalMU />
+    <PriceCode />
+    <ProductDetailList />
+    <PublicAdministration />
+    <References />
+    <Remarks />
+    <ServicesData>
+      <BeginDate>2019-03-30</BeginDate>
+      <BoardType />
+      <BumperServiceProvider />
+      <BumperSupplierID />
+      <ClientAddress />
+      <ClientCity />
+      <ClientID />
+      <ClientName />
+      <ClientPC />
+      <ClientSupplierID />
+      <CountryFiscalData />
+      <EndDate>2019-03-31</EndDate>
+      <Pax>test bavel</Pax>
+      <PaxList />
+      <PaxRef />
+      <PromoCode />
+      <ReceiverCenterUCodes />
+      <Remarks />
+      <RoomCategory />
+      <RoomNumber />
+      <SenderCenterUCodes />
+      <ServiceProvider>
+        <Address>supplier.address.address307</Address>
+        <AddressLocalArea />
+        <City>supplier.address.cityname307</City>
+        <Contact />
+        <Country>EGY</Country>
+        <Email>xgarcia+002@voxelgroup.net</Email>
+        <PC>zipcode307</PC>
+        <PhoneNumbers>
+          <Number>935-55-55-55</Number>
+          <Type>1</Type>
+        </PhoneNumbers>
+        <PhoneNumbers>
+          <Number>935-55-55-55</Number>
+          <Type>1</Type>
+        </PhoneNumbers>
+        <PhoneNumbers>
+          <Number>935-55-55-55</Number>
+          <Type>1</Type>
+        </PhoneNumbers>
+        <Province>Al Iskandarīyah</Province>
+        <Web />
+        <CIF />
+        <Company>supplier.name307</Company>
+        <EconomicActivityCode />
+        <LegalProperties />
+        <Registry />
+        <m_IsPublicAdministration />
+        <m_TaxIdType>TaxId</m_TaxIdType>
+        <m_blnB2C />
+        <m_strCountryTaxId />
+        <Name>supplier.name307</Name>
+        <PrimaryCode />
+        <Rol>Customer</Rol>
+        <SecondaryCode />
+        <SysID>2990201</SysID>
+        <SysRolID>3</SysRolID>
+        <SysRole>31</SysRole>
+      </ServiceProvider>
+      <ServiceType>Accommodation</ServiceType>
+      <SupplierAddress />
+      <SupplierCIF />
+      <SupplierClientID>2763921</SupplierClientID>
+      <SupplierFiscalAddress />
+      <SupplierFiscalCity />
+      <SupplierFiscalName />
+      <SupplierFiscalPC />
+      <SupplierFiscalProvince />
+      <SupplierID>2990201</SupplierID>
+      <SupplierName>supplier.name307</SupplierName>
+      <SysBumperSupplierID>-1</SysBumperSupplierID>
+      <SysCustomerID>-1</SysCustomerID>
+      <SysSupplierID>2990201</SysSupplierID>
+      <Voucher />
+      <m_SysServiceType>Accommodation</m_SysServiceType>
+      <m_strAdultsNumber />
+      <m_strCheckInTime />
+      <m_strCheckOutTime />
+      <m_strInfantsNumber />
+      <m_strJuniorsNumber />
+      <m_strKidsNumber />
+      <m_strPaxNumber />
+    </ServicesData>
+    <StockBuyed />
+    <SupplierSKU>
+    </SupplierSKU>
+    <SysSKU>-1</SysSKU>
+    <Tag />
+    <Taxes>
+      <AdditionalInfos />
+      <Category />
+      <Description />
+      <PublicAdministration />
+      <Qualifier />
+      <SenderName />
+      <SysType />
+      <Type>IVA</Type>
+      <m_AlreadyIncluded />
+      <m_IsInputTax />
+      <m_IsTaxNonDeductable />
+      <m_IsWithheld />
+      <m_strAmount>5.95</m_strAmount>
+      <m_strBase />
+      <m_strRate>5</m_strRate>
+    </Taxes>
+    <TicketData />
+    <Traceability />
+    <TraceabilityList />
+    <TransactionApprovalWorkFlowList />
+    <m_PU>Units</m_PU>
+    <m_SysServiceType>Accommodation</m_SysServiceType>
+    <m_strBeginDate>2019-03-30</m_strBeginDate>
+    <m_strCU />
+    <m_strCheckOutTime />
+    <m_strDateTimePosting />
+    <m_strEU />
+    <m_strEndDate>2019-03-31</m_strEndDate>
+    <m_strGreenDot />
+    <m_strJourneyDuration>1</m_strJourneyDuration>
+    <m_strNetAmount>125</m_strNetAmount>
+    <m_strQty>1</m_strQty>
+    <m_strRol />
+    <m_strSector />
+    <m_strSourceLineNumber />
+    <m_strSysLineType>Service</m_strSysLineType>
+    <m_strTotal>125</m_strTotal>
+    <m_strUP>125</m_strUP>
+    <m_strUW />
+  </ProductList>
+  <ProductList>
+    <Action />
+    <AdditionalInfos />
+    <BookingInfo />
+    <Comment />
+    <Contract />
+    <CustomerSKU>testbavel-bookingref307</CustomerSKU>
+    <Discounts />
+    <EAN />
+    <Fees />
+    <Group />
+    <GroupCode />
+    <Item>Dinner</Item>
+    <ItemRef />
+    <MU>
+    </MU>
+    <OriginalMU />
+    <PriceCode />
+    <ProductDetailList />
+    <PublicAdministration />
+    <References />
+    <Remarks />
+    <ServicesData>
+      <BeginDate>2019-03-30</BeginDate>
+      <BoardType />
+      <BumperServiceProvider />
+      <BumperSupplierID />
+      <ClientAddress />
+      <ClientCity />
+      <ClientID />
+      <ClientName />
+      <ClientPC />
+      <ClientSupplierID />
+      <CountryFiscalData />
+      <EndDate>2019-03-31</EndDate>
+      <Pax>test bavel</Pax>
+      <PaxList />
+      <PaxRef />
+      <PromoCode />
+      <ReceiverCenterUCodes />
+      <Remarks />
+      <RoomCategory />
+      <RoomNumber />
+      <SenderCenterUCodes />
+      <ServiceProvider>
+        <Address>supplier.address.address307</Address>
+        <AddressLocalArea />
+        <City>supplier.address.cityname307</City>
+        <Contact />
+        <Country>EGY</Country>
+        <Email>xgarcia+002@voxelgroup.net</Email>
+        <PC>zipcode307</PC>
+        <PhoneNumbers>
+          <Number>935-55-55-55</Number>
+          <Type>1</Type>
+        </PhoneNumbers>
+        <PhoneNumbers>
+          <Number>935-55-55-55</Number>
+          <Type>1</Type>
+        </PhoneNumbers>
+        <PhoneNumbers>
+          <Number>935-55-55-55</Number>
+          <Type>1</Type>
+        </PhoneNumbers>
+        <Province>Al Iskandarīyah</Province>
+        <Web />
+        <CIF />
+        <Company>supplier.name307</Company>
+        <EconomicActivityCode />
+        <LegalProperties />
+        <Registry />
+        <m_IsPublicAdministration />
+        <m_TaxIdType>TaxId</m_TaxIdType>
+        <m_blnB2C />
+        <m_strCountryTaxId />
+        <Name>supplier.name307</Name>
+        <PrimaryCode />
+        <Rol>Customer</Rol>
+        <SecondaryCode />
+        <SysID>2990201</SysID>
+        <SysRolID>3</SysRolID>
+        <SysRole>31</SysRole>
+      </ServiceProvider>
+      <ServiceType>Accommodation</ServiceType>
+      <SupplierAddress />
+      <SupplierCIF />
+      <SupplierClientID>2763921</SupplierClientID>
+      <SupplierFiscalAddress />
+      <SupplierFiscalCity />
+      <SupplierFiscalName />
+      <SupplierFiscalPC />
+      <SupplierFiscalProvince />
+      <SupplierID>2990201</SupplierID>
+      <SupplierName>supplier.name307</SupplierName>
+      <SysBumperSupplierID>-1</SysBumperSupplierID>
+      <SysCustomerID>-1</SysCustomerID>
+      <SysSupplierID>2990201</SysSupplierID>
+      <Voucher />
+      <m_SysServiceType>Accommodation</m_SysServiceType>
+      <m_strAdultsNumber />
+      <m_strCheckInTime />
+      <m_strCheckOutTime />
+      <m_strInfantsNumber />
+      <m_strJuniorsNumber />
+      <m_strKidsNumber />
+      <m_strPaxNumber />
+    </ServicesData>
+    <StockBuyed />
+    <SupplierSKU>
+    </SupplierSKU>
+    <SysSKU>-1</SysSKU>
+    <Tag />
+    <Taxes>
+      <AdditionalInfos />
+      <Category />
+      <Description />
+      <PublicAdministration />
+      <Qualifier />
+      <SenderName />
+      <SysType />
+      <Type>IVA</Type>
+      <m_AlreadyIncluded />
+      <m_IsInputTax />
+      <m_IsTaxNonDeductable />
+      <m_IsWithheld />
+      <m_strAmount>1.15</m_strAmount>
+      <m_strBase />
+      <m_strRate>4</m_strRate>
+    </Taxes>
+    <TicketData />
+    <Traceability />
+    <TraceabilityList />
+    <TransactionApprovalWorkFlowList />
+    <m_PU>Units</m_PU>
+    <m_SysServiceType>Accommodation</m_SysServiceType>
+    <m_strBeginDate>2019-03-30</m_strBeginDate>
+    <m_strCU />
+    <m_strCheckOutTime />
+    <m_strDateTimePosting />
+    <m_strEU />
+    <m_strEndDate>2019-03-31</m_strEndDate>
+    <m_strGreenDot />
+    <m_strJourneyDuration>1</m_strJourneyDuration>
+    <m_strNetAmount>30</m_strNetAmount>
+    <m_strQty>1</m_strQty>
+    <m_strRol />
+    <m_strSector />
+    <m_strSourceLineNumber />
+    <m_strSysLineType>Service</m_strSysLineType>
+    <m_strTotal>30</m_strTotal>
+    <m_strUP>30</m_strUP>
+    <m_strUW />
+  </ProductList>
+  <RealReceiver />
+  <RealSender />
+  <Receiver>
+    <Address>24 Carrol Close</Address>
+    <AddressLocalArea>
+    </AddressLocalArea>
+    <City>Kentish Town</City>
+    <Contact />
+    <Country>GBR</Country>
+    <Email />
+    <PC>NW5 2PY</PC>
+    <PhoneNumbers />
+    <Province>Camden</Province>
+    <Web />
+    <CIF>TST-00005594</CIF>
+    <Company>SUMMIT TEST CLIENT 1</Company>
+    <EconomicActivityCode />
+    <LegalProperties />
+    <Registry />
+    <m_IsPublicAdministration />
+    <m_TaxIdType>TaxId</m_TaxIdType>
+    <m_blnB2C />
+    <m_strCountryTaxId>GB</m_strCountryTaxId>
+    <Name>SUMMIT TEST CLIENT 1</Name>
+    <PrimaryCode />
+    <Rol />
+    <SecondaryCode />
+    <SysID>2763921</SysID>
+    <SysRolID>2</SysRolID>
+    <SysRole>2</SysRole>
+  </Receiver>
+  <ReceiverCenter />
+  <References />
+  <RoomList />
+  <SendTo />
+  <Sender>
+    <Address>CUESTA DE ESPAÑA, 65</Address>
+    <AddressLocalArea />
+    <City>Uruñuela</City>
+    <Contact />
+    <Country>ESP</Country>
+    <Email />
+    <PC>26717</PC>
+    <PhoneNumbers />
+    <Province>La Rioja</Province>
+    <Web />
+    <CIF>R8882213E</CIF>
+    <Company>TASH SA</Company>
+    <EconomicActivityCode />
+    <LegalProperties />
+    <Registry />
+    <m_IsPublicAdministration />
+    <m_TaxIdType>TaxId</m_TaxIdType>
+    <m_blnB2C />
+    <m_strCountryTaxId />
+    <Name />
+    <PrimaryCode />
+    <Rol>Supplier</Rol>
+    <SecondaryCode />
+    <SysID>2990202</SysID>
+    <SysRolID>1</SysRolID>
+    <SysRole>1</SysRole>
+  </Sender>
+  <SenderCenter>
+    <Address>supplier.address.address307</Address>
+    <AddressLocalArea />
+    <City>supplier.address.cityname307</City>
+    <Contact />
+    <Country>EGY</Country>
+    <Email />
+    <PC>zipcode307</PC>
+    <PhoneNumbers>
+      <Number>935-55-55-55</Number>
+      <Type>1</Type>
+    </PhoneNumbers>
+    <PhoneNumbers>
+      <Number>935-55-55-55</Number>
+      <Type>1</Type>
+    </PhoneNumbers>
+    <PhoneNumbers>
+      <Number>935-55-55-55</Number>
+      <Type>1</Type>
+    </PhoneNumbers>
+    <Province>Al Iskandarīyah</Province>
+    <Web />
+    <CIF />
+    <Company />
+    <EconomicActivityCode />
+    <LegalProperties />
+    <Registry />
+    <m_IsPublicAdministration />
+    <m_TaxIdType>TaxId</m_TaxIdType>
+    <m_blnB2C />
+    <m_strCountryTaxId />
+    <Name>supplier.name307</Name>
+    <PrimaryCode />
+    <Rol />
+    <SecondaryCode />
+    <SysID>2990201</SysID>
+    <SysRolID>3</SysRolID>
+    <SysRole>31</SysRole>
+    <m_strSysCustomerImpersonationID />
+  </SenderCenter>
+  <Signatures />
+  <Supplier>
+    <Address>CUESTA DE ESPAÑA, 65</Address>
+    <AddressLocalArea>
+    </AddressLocalArea>
+    <City>Uruñuela</City>
+    <Contact />
+    <Country>ESP</Country>
+    <Email />
+    <PC>26717</PC>
+    <PhoneNumbers />
+    <Province>La Rioja</Province>
+    <Web />
+    <CIF>R8882213E</CIF>
+    <Company>TASH SA</Company>
+    <EconomicActivityCode />
+    <LegalProperties />
+    <Registry />
+    <m_IsPublicAdministration />
+    <m_TaxIdType>TaxId</m_TaxIdType>
+    <m_blnB2C />
+    <m_strCountryTaxId />
+    <AdditionalInfos />
+    <CountryFiscalData />
+    <CustomerSupplierID>
+    </CustomerSupplierID>
+    <Supplier />
+    <SupplierID>
+    </SupplierID>
+    <SysSupplierID>2990202</SysSupplierID>
+  </Supplier>
+  <SysReceiptOrigin />
+  <SysSourceFiles />
+  <SysTracking>
+    <Alienet />
+    <Date>2019-10-30T12:14:49.284+01:00</Date>
+    <Login />
+    <SenderHostName />
+    <SenderIP />
+    <SourceFilename>webbillingBuilder</SourceFilename>
+    <SourceTID>0</SourceTID>
+    <WebLoginId>0</WebLoginId>
+    <WebUserID>0</WebUserID>
+  </SysTracking>
+  <Tag />
+  <TaxSummary>
+    <AdditionalInfos />
+    <Category />
+    <Description />
+    <PublicAdministration />
+    <Qualifier />
+    <SenderName />
+    <SysType />
+    <Type>IVA</Type>
+    <m_AlreadyIncluded />
+    <m_IsInputTax />
+    <m_IsTaxNonDeductable />
+    <m_IsWithheld />
+    <m_strAmount>5.95</m_strAmount>
+    <m_strBase>119.05</m_strBase>
+    <m_strRate>5</m_strRate>
+  </TaxSummary>
+  <TaxSummary>
+    <AdditionalInfos />
+    <Category />
+    <Description />
+    <PublicAdministration />
+    <Qualifier />
+    <SenderName />
+    <SysType />
+    <Type>IVA</Type>
+    <m_AlreadyIncluded />
+    <m_IsInputTax />
+    <m_IsTaxNonDeductable />
+    <m_IsWithheld />
+    <m_strAmount>1.15</m_strAmount>
+    <m_strBase>28.85</m_strBase>
+    <m_strRate>4</m_strRate>
+  </TaxSummary>
+  <TotalSummary>
+    <AdditionalInfos />
+    <EFatura />
+    <PublicAdministration />
+    <m_strDiscounts />
+    <m_strGreenDot />
+    <m_strGrossAmount />
+    <m_strInputTax />
+    <m_strNetAmount />
+    <m_strOutputTax />
+    <m_strPrePaid />
+    <m_strSubTotal>147.90</m_strSubTotal>
+    <m_strTax>7.10</m_strTax>
+    <m_strTaxInExchangeCurrency />
+    <m_strTotal>155.00</m_strTotal>
+    <m_strTotalToPay />
+  </TotalSummary>
+  <TransactionACK />
+  <eMailRecipients />
+  <eMailSender />
+</Root>
