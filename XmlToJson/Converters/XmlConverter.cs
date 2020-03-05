@@ -8,8 +8,8 @@ namespace XmlToJson.Converters
 {
     public static class XmlConverter
     {
-        private const string jsonPath = @"C:\katas\XmlToJson\XmlToJson\Json\";
-        private const string xmlPath = @"C:\katas\XmlToJson\XmlToJson\Xml\";
+        private const string jsonPath = @"D:\\Users\\xgarcia\\Repos\\XmlJsonConverter\\XmlToJson\\Json";
+        private const string xmlPath = @"D:\\Users\\xgarcia\\Repos\\XmlJsonConverter\\XmlToJson\\Xml\";
 
         public static void Process()
         {
